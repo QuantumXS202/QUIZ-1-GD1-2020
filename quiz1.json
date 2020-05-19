@@ -1,45 +1,45 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "Osu",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
+        "title": "Osu Knowledge",
         "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
 
     },
-    "quizContent":		
+    "quizContent":
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "Uit welk jaar komt Osu?",
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "2007",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
+						"answer": "2006",
 						"feedback": false
 					},
 					{
-						"answer": "Edison",
+						"answer": "2010",
 						"feedback": false
 					},
 					{
-						"answer": "James Watt",
+						"answer": "2005",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "Welk kleur heeft het Osu logo?",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "Roze",
 						"feedback": true
 					},
 					{
-						"answer": "groen en geel",
+						"answer": "Blauw",
 						"feedback": false
 					},
 					{
-						"answer": "rood en wit",
+						"answer": "roze en rood",
 						"feedback": false
 					},
 					{
@@ -49,21 +49,21 @@
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "Wat voor spel is Osu?",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "Shooter",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "Platformer",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "Ritme",
 						"feedback": true
 					},
 					{
-						"answer": "Gerrit",
+						"answer": "Horror",
 						"feedback": false
 					}
 				]
